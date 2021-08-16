@@ -1,2 +1,2 @@
-# programa_calcula_imc
-Programa em HTML que calcula o IMC
+# calcula_imc
+- Programa que calcula o IMC com base na altura e peso.
